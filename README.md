@@ -1,6 +1,7 @@
 # deep-learning-challenge
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Overview:
 
      A wide variety of factors must be considered in order for Alphabet Soup to effectively select candidates for funding out of the many applications they review each year.  Because applications can number in the thousands, a deep learning program has been designed to review applications and help select the candidates most likely to apply funding to successfully achieve their program goals.  The program will examine data from past datasets to allow for the probable classification of applications into successful and unsuccessful categories.
@@ -74,3 +75,5 @@ Although the targeted model performance was not achieved in the optimizations at
 >>>>>>> 46aea82c2bccc3bcd4a92c1681c94ffb31a5f42c
 
 
+=======
+>>>>>>> ce575270588826dc650585b4d0a89322add2cd53
